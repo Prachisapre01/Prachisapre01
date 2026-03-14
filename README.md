@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello! 
+I'm Prachi, a domain-focused Data Analyst who leads with business context, focused on understanding the problems and what actions can solve them.
+I enjoy approaching problems with structured thinking and translating complex data into meaningful business decisions.
 
-<!--
-**Prachisapre01/Prachisapre01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tools & Tech
+--------------------
+• SQL
+• Power BI (Executive Dashboards & Reporting)  
+• Advanced Excel
+• Data Cleaning
+• Data Visualization
+• Business Metrics Analysis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Working On
+-------------------------
+• Strengthening domain knowledge and business understanding  
+• Building business-focused data analysis projects (SaaS revenue, churn, product analytics)
