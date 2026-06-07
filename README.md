@@ -1,17 +1,19 @@
-## Hello! 
-I'm Prachi, a domain-focused Data Analyst who leads with business context, focused on understanding the problems and what actions can solve them.
-I enjoy approaching problems with structured thinking and translating complex data into meaningful business decisions.
+I look at data and ask "so what" until something useful comes out.
+Background in engineering. Now I work on customer behaviour, 
+retention, and why products lose people.
 
-Tools & Tech
---------------------
-• SQL
-• Power BI (Executive Dashboards & Reporting)  
-• Advanced Excel
-• Data Cleaning
-• Data Visualization
-• Business Metrics Analysis
+what i work with:
+SQL (PostgreSQL · BigQuery) · Power BI (DAX, Power Query) · 
+Python (Pandas) · Advanced Excel
 
-Currently Working On
--------------------------
-• Strengthening domain knowledge and business understanding  
-• Building business-focused data analysis projects (SaaS revenue, churn, product analytics)
+what i actually do:
+→ customer & market behaviour analysis
+→ RFM segmentation & cohort analysis
+→ SaaS churn, NRR, MRR & revenue leakage
+→ data cleaning (messy data, messier CSVs)
+→ executive dashboards & data visualization
+→ consumer research & competitive analysis
+→ Korean language certified (TOPIK) · yes, it comes up
+
+open to Product Analyst · Business Analyst · Data Analyst roles
+relocating · serious about the work
